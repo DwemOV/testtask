@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access__test_task_parsel__group_user,access__test_task_parsel__group_user,model_test_task_parsel,testtask.group_test_task_employee,1,1,1,1

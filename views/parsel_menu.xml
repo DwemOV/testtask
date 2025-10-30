@@ -1,0 +1,15 @@
+<odoo>
+
+    <menuitem id="test_task_main_menu"
+              web_icon="test_task,static/description/icon.png"
+              name="test_task" sequence="300"/>
+
+    <menuitem id="test_task_menu_catalog"
+              parent="test_task_menu_catalog"
+              name="Catalog" sequence="100"/>
+
+    <menuitem id="testt_ask_menu_main_settings"
+              parent="test_task_menu_main_settings"
+              name="Settings" sequence="900"/>
+
+</odoo>
